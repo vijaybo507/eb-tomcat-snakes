@@ -25,3 +25,4 @@ mv ROOT.war ../
 echo .
 echo "SUCCESS"
 echo "vijay"
+echo "shivanna"
